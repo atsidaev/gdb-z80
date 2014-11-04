@@ -681,7 +681,8 @@ ALL_TARGET_OBS = \
 	symfile-mem.o \
 	windows-tdep.o \
 	linux-record.o \
-	ravenscar-thread.o
+	ravenscar-thread.o \
+	z80-tdep.o
 
 # Host-dependent makefile fragment comes in here.
 @host_makefile_frag@
